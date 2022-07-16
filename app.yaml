@@ -1,4 +1,19 @@
 metadata:
   name: test
+  generatename: ""
+  namespace: ""
+  selflink: ""
+  uid: ""
+  resourceversion: ""
+  generation: 0
+  creationtimestamp: "0001-01-01T00:00:00Z"
+  deletiontimestamp: null
+  deletiongraceperiodseconds: null
+  labels: {}
+  annotations: {}
+  ownerreferences: []
+  finalizers: []
+  zzz_deprecatedclustername: ""
+  managedfields: []
 spec:
-  image: old
+  image: agill17/foo
