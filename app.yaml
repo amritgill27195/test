@@ -1,1 +1,4 @@
-
+metadata:
+  name: test
+spec:
+  image: old
