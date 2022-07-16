@@ -1,6 +1,7 @@
-Spec:
-  Destination:
+metadata:
+  creationTimestamp: null
+spec:
+  destination:
     apiServerUrl: ""
     namespace: ""
-  Image: new
-creationTimestamp: null
+  image: latest
