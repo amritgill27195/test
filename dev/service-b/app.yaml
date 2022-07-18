@@ -2,4 +2,4 @@ metadata:
   creationTimestamp: null
   name: generated
 spec:
-  image: test
+  image: service-b-image:dev
